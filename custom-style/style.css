@@ -1,0 +1,201 @@
+ body{
+  	background: linear-gradient(
+      rgba(0, 0, 0, 0.5), 
+      rgba(0, 0, 0, 0.5)
+    ),url("http://anticosetificiofiorentino.com/assets/img/tessuti/ermisino-1-580x500.jpg");
+
+  }
+
+  
+.navbar-brand >img
+{
+   width: 150px;
+   height: 35px;
+   background-color:white;
+   border-radius: 10%;
+}
+
+}
+.navbar-brand
+{
+  padding: 13px 15px;
+}
+.navbar-nav ul li
+{
+  display: inline;
+}
+#myCarousel .item { 
+      background-size: 100% 300px;
+      height: 600px;
+      
+  }
+
+.carousel-style-2{
+	font-size: 3em;
+	font-weight: 3em;
+	text-align: right;
+	padding-left: 200px;
+	font-family: 'Kaushan Script', cursive;
+}
+
+
+
+figcaption{
+	color: white;
+	text-align: justify;
+	font-size: 20px;
+
+}
+.col-md-7 h2 
+{
+	text-align: center;
+	color: white;
+	background-color: #1F3653;
+	height: 350px;
+	padding-top: 50px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+}
+
+
+.col-md-5 img
+{
+	width: 100%;
+	height: 350px;
+	filter: brightness(70%);
+	background:transparent;
+
+}
+
+em{
+	font-size: 40px;
+	font-family: 'Kaushan Script', cursive;
+}
+.jumbotron
+{
+	background: transparent;
+}
+.thumbnail{
+	background: transparent;
+}
+.three-col{
+	background: transparent;
+	margin-bottom: 30px;
+	max-width: 360px;
+	margin-left: auto;
+	margin-right: auto;
+	position: relative;
+	padding-top: 20px;
+}
+
+.three-col-header
+{
+	overflow: hidden;
+	text-align: center;
+	color: white;
+}
+.row-style{
+	background-color:#1F3653;
+	margin: 0px;
+	}
+
+
+.table-style {
+	background-image: url(http://anticosetificiofiorentino.com/assets/img/tessuti/ermisino-1-580x500.jpg);
+	height: 200px;
+	filter: brightness(50%);
+	background-attachment: fixed;
+	width: 100%;
+}
+
+.map-style{
+	background:#1F3653;
+	color: white;
+}
+
+.map-style iframe{
+	width: 100%;
+	filter: brightness(80%);
+}
+.button-style{
+
+}
+
+.footer-style h4{
+	color: white;
+}
+.footer-style p{
+	color: white;
+	font-size: 15px;
+}
+.footer-style ul li
+{
+	list-style-type: none;
+}
+
+.footer-style a{
+	color: white;
+}
+.footer-style a:hover{
+	color: #EA2DE4;
+}
+
+
+.feedback-style
+{
+	color: white;
+	padding-top: 50px;
+	}
+.feedback-style h2{
+	text-align: center;
+}
+
+.feedback-style a{
+	padding-top: 10px;
+
+}
+
+@media screen and (max-width:959px) {
+	
+    .carousel-style-2{
+	font-size: 2em;
+	font-weight: 2em;
+	padding-left: 50px;
+	font-family: 'Kaushan Script', cursive;
+	
+}
+#myCarousel .item { 
+      background-size: 100% 300px;
+      height: 500px;
+      
+  }
+}
+@media screen and (max-width:600px)
+{
+	.carousel-style-2{
+	font-size: 2em;
+	font-weight: 2em;
+	padding-left: 20px;
+	text-align: center;
+	font-family: 'Kaushan Script', cursive;
+}
+#myCarousel .item { 
+      background-size: 100% 300px;
+      height: 300px;
+      
+  }
+}
+@media screen and (max-width:360px)
+{
+	.carousel-style-2{
+	font-size: 15px;
+	font-weight: 3em;
+	padding-left: 10px;
+	font-family: 'Kaushan Script', cursive;
+}
+#myCarousel .item { 
+      background-size: 100% 300px;
+      height: 300px;
+      
+  }
+}
