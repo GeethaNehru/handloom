@@ -54,6 +54,7 @@ figcaption{
 	height: 350px;
 	padding-top: 50px;
 	font-family: 'Josefin Sans', sans-serif;
+
 	
 }
 
@@ -169,6 +170,19 @@ em{
       height: 500px;
       
   }
+  .col-md-7 h2 
+{
+	text-align: center;
+	color: white;
+	background-color: #1F3653;
+	height: 350px;
+	font-size: 30px;
+	padding-top: 50px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	
+}
+
 }
 @media screen and (max-width:600px)
 {
@@ -178,6 +192,18 @@ em{
 	padding-left: 20px;
 	text-align: center;
 	font-family: 'Kaushan Script', cursive;
+}
+.col-md-7 h2 
+{
+	text-align: center;
+	color: white;
+	background-color: #1F3653;
+	height: 350px;
+	font-size: 30px;
+	padding-top: 50px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	
 }
 #myCarousel .item { 
       background-size: 100% 300px;
@@ -198,4 +224,16 @@ em{
       height: 300px;
       
   }
+  .col-md-7 h2 
+{
+	text-align: center;
+	color: white;
+	background-color: #1F3653;
+	height: 350px;
+	font-size: 25px;
+	padding-top: 50px;
+	font-family: 'Josefin Sans', sans-serif;
+	
+	
+}
 }
